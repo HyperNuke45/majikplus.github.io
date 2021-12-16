@@ -47,3 +47,5 @@ A: Soon.
 ### YouTube Channel
 
 [CanonBall90's channel](https://www.youtube.com/channel/UCC_3QqwkCHlgm-0uw9W7UbA)
+
+[HypeR's channel](https://www.youtube.com/channel/UCMSnMzafj8XXivkJ3mSg8Bw/videos)
