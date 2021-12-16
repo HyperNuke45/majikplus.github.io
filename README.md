@@ -1,35 +1,47 @@
-## Welcome to Majik Hack +
+## New 4 Majik Hack +
 
+This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
 
+All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
 
-### Markdown
+Website is maintained by HypeR.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Download
 
-```markdown
-Syntax highlighted code block
+Sike u thought!
 
-# Header 1
-## Header 2
-### Header 3
+### Jekyll Themes
 
-- Bulleted
-- List
+```How to get?
+If you would like to recieve the client you need to apply.
 
-1. Numbered
-2. List
+Application format:
+1. When did you join the anarchy scene?
+2. Are you a nn?
+3. On a scale from 1-10 how good are you at crystal pvp
+4. Do you know me?
+5. Do you have experience with java or kotlin?
+6. Why do you want client?
+7. How can you contribute?
 
+To apply message HypeR#1021 or CanonBall90#0490 on Discord.
+
+just keeping this stuff here for refrence and shit.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Possible questions + answers
 
-### Jekyll Themes
+Q: Why don't we use Discord? 
++
+A: Because I've gon through 5 Discord accounts but they keep getting termed.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Canonball90/majikplus.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Q: Is this a skid?
++
+A: No, go kys.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Q: Showcase to prove dis real?
++
+A: Soon.
