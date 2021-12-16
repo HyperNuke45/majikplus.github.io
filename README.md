@@ -1,16 +1,16 @@
 ## News 4 Majik Hack +
 
-This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
+	This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
 
-All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
+	All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
 
-Website is maintained by HypeR.
+	Website is maintained by HypeR.
 
 ### Download
 
-Sike u thought!
+	Sike u thought!
 
-### Jekyll Themes
+### How 2 apply 4 client!!!!!!!!
 
 ```How to get?
 If you would like to recieve the client you need to apply.
@@ -35,13 +35,17 @@ just keeping this stuff here for refrence and shit.
 ### Possible questions + answers
 
 Q: Why don't we use Discord? 
-+
+
 A: Because I've gon through 5 Discord accounts but they keep getting termed.
 
 Q: Is this a skid?
-+
+
 A: No, go kys.
 
 Q: Showcase to prove dis real?
-+
+
 A: Soon.
+
+### YouTube Channel
+
+[CanonBall90's channel](https://www.youtube.com/channel/UCC_3QqwkCHlgm-0uw9W7UbA)
