@@ -1,36 +1,34 @@
 ## News 4 Majik Hack +
 
-	This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
-
-	All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
-
-	Website is maintained by HypeR.
+- This is currently a private hack client created by CanonBall90 to learn coding but tbh it ain't that bad.
+- All updates will be either put on the website (If you not a user) and on the github repository (If you is a user).
+- Website is maintained by HypeR.
 
 ### Download
 
-	Sike u thought!
+Sike u thought!
 
 ### How 2 apply 4 client!!!!!!!!
 
-```How to get?
-If you would like to recieve the client you need to apply.
+	How to get?
+	If you would like to recieve the client you need to apply.
 
-Application format:
-1. When did you join the anarchy scene?
-2. Are you a nn?
-3. On a scale from 1-10 how good are you at crystal pvp
-4. Do you know me?
-5. Do you have experience with java or kotlin?
-6. Why do you want client?
-7. How can you contribute?
+	Application format:
+	1. When did you join the anarchy scene?
+	2. Are you a nn?
+	3. On a scale from 1-10 how good are you at crystal pvp
+	4. Do you know me?
+	5. Do you have experience with java or kotlin?
+	6. Why do you want client?
+	7. How can you contribute?
 
-To apply message HypeR#1021 or CanonBall90#0490 on Discord.
+	To apply message HypeR#1021 or CanonBall90#0490 on Discord.
 
-just keeping this stuff here for refrence and shit.
-**Bold** and _Italic_ and `Code` text
+	just keeping this stuff here for refrence and shit.
+	**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+	[Link](url) and ![Image](src)
+
 
 ### Possible questions + answers
 
