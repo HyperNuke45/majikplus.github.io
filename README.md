@@ -15,12 +15,12 @@ Sike u thought!
 
 	Application format:
 	1. When did you join the anarchy scene?
-	2. Are you a nn?
-	3. On a scale from 1-10 how good are you at crystal pvp
+	2. Are you an nn?
+	3. On a scale from 1-10 how good are you at Crystal pvp?
 	4. Do you know me?
-	5. Do you have experience with java or kotlin?
+	5. Do you have experience with Java or Kotlin?
 	6. Why do you want client?
-	7. How can you contribute?
+	7. How can you contribute toward da development?
 
 	To apply message HypeR#1021 or CanonBall90#0490 on Discord.
 
@@ -34,11 +34,11 @@ Sike u thought!
 
 Q: Why don't we use Discord? 
 
-A: Because I've gon through 5 Discord accounts but they keep getting termed.
+A: Because I've gone through 5 Discord accounts but they keep getting termed.
 
 Q: Is this a skid?
 
-A: No, go kys.
+A: No, go kys faggot.
 
 Q: Showcase to prove dis real?
 
